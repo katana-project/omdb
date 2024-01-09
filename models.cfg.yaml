@@ -1,0 +1,4 @@
+package: omdb
+generate:
+  models: true
+output: models.gen.go
